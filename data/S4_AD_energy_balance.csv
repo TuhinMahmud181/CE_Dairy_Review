@@ -1,0 +1,4 @@
+season,influent_COD_kg_m3,dT_max_low_K,dT_max_high_K,min_influent_T_best_C,min_influent_T_worst_C
+monsoon,2.650,2.78,5.72,29.3,32.2
+winter,2.354,2.47,5.08,29.9,32.5
+summer,2.221,2.33,4.80,30.2,32.7

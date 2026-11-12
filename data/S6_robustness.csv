@@ -1,0 +1,14 @@
+case,median_kt_COD_yr,p5,p95,interval_width_kt
+"Base case: uniform, independent",254,129,405,275
+"Triangular, independent",256,160,362,202
+"Uniform, rank corr. TS–COD/TS = +0.8",253,127,417,290
+"Uniform, rank corr. TS–COD/TS = -0.8",255,131,391,260
+"Uniform, rank corr. whey yield–TS = +0.8",254,129,406,277
+"Uniform, rank corr. whey yield–TS = -0.8",254,129,402,273
+"Uniform, rank corr. c–phi = +0.8",254,125,416,291
+"Uniform, rank corr. c–phi = -0.8",254,134,392,258
+"Uniform, c fixed at midpoint",254,130,404,274
+"Uniform, phi fixed at midpoint",257,210,308,98
+"Uniform, whey yield fixed at midpoint",254,129,405,275
+"Uniform, TS fixed at midpoint",257,132,386,254
+"Uniform, COD/TS fixed at midpoint",255,130,403,272
