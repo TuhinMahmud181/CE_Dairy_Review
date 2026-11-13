@@ -2,7 +2,7 @@
 
 Data and code for the review article:
 
-> Sarker, S., Mahmud, T., Rushd, S. *Circular Economy in Dairy Processing: A Critical Review of Intervention Transferability, with Bangladesh as Case Study.* Submitted to *Cleaner and Responsible Consumption*.
+> Sarker, S., Mahmud, T. *Circular Economy in Dairy Processing: A Critical Review of Intervention Transferability, with Bangladesh as Case Study.* Submitted to *Cleaner and Responsible Consumption*.
 
 Repository author: **Tuhin Mahmud**
 
